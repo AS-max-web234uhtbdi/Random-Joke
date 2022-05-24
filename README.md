@@ -1,2 +1,4 @@
 # Random-Joke
-This website provide random joke at every click
+This website provides random joke at every click
+technologies used HTML5, CSS3, Javascript
+
