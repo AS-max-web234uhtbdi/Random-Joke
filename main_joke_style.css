@@ -1,0 +1,58 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana,  Tahoma, sans-serif, 'Times New Roman', Times, serif;
+    
+}
+section
+{
+    background-color: rgba(247, 212, 56, 0.884);
+    background-size: 100vh;
+    background-position: 100vh;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+}
+.cont
+{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:#383838;
+    padding: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+    
+   
+}
+.emj
+{
+    justify-content: center;
+    align-self: center;
+    font-size: 70px;
+    margin-top: 0px;
+}
+#joke
+{
+    justify-content: center;
+    align-self: center;
+    text-align: justify;
+    margin-top: -40px;
+    font-size: 19px;
+    color: azure;
+}
+#btn
+{
+    padding: 6px;
+width: 165px;
+text-align: center;
+font-size: 18px;
+background-color: rgba(247, 212, 56, 0.884);
+border: none;
+
+}
